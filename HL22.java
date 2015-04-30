@@ -9,7 +9,7 @@ import org.w3c.dom.*;
 import java.awt.event.*;
 //import javax.swing.event.*;
 
-/**
+/*
 Prints out the current top ESPN News headlines for Fantasy Basketball.
 Asks the user for input of the amount of headlines to be shown.
 The program will also print out the url for the news story of the last headline shown.
